@@ -35,7 +35,6 @@ This project is a full-stack Todo List application that allows users to manage t
 ### Frontend
 - **React**: JavaScript library for building the user interface.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
-- **Axios**: For making HTTP requests to the backend API.
 
 ### Backend
 - **ExpressJS**: Web framework for building the REST API.
